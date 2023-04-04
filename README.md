@@ -4,8 +4,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Csharp-263235?style=flat&logo=Csharp&logoColor=color" />
-	<img src="https://img.shields.io/badge/C-263235?style=flat&logo=C&logoColor=color" />
-  <img src="https://simpleicons.org/icons/cplusplus.svg-00599C?style=flat-square&logo=C++&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=color" />
+  <img src="https://img.shields.io/badge/Cplus-00599C?style=flat-square&logo=C++&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
