@@ -3,8 +3,8 @@
 <h1 align="center">💻 Tech Stack 💻</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-26323?style=flat&logo=C&logoColor=color" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-263235?style=flat&logo=C&logoColor=color" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplus&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
