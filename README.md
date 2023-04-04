@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=69f&height=300&section=header&text=SHINWOO%20&fontSize=85&fontAlignY=42)
+![header](https://capsule-render.vercel.app/api?type=waving&color=69f&height=300&section=header&text=SHINWOO%20&fontSize=80fontAlignY=42&fontColor=&fontColor=white)
 
 <h1 align="center">💻 Tech Stack 💻</h1>
 
