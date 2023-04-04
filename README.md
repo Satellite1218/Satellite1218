@@ -13,7 +13,7 @@
 <h1 align="center">🌹 Contact 🌹</h1>
 <p align="center">
   <a href="mailto:lsw071218@gmail.com"><img src="https://img.shields.io/badge/-lsw071218@gmail.com-263235?style=flat&logo=Gmail&logoColor=color"/></a>
-  <a href="https://www.instagram.com/satell_07/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/satell_07/"><img src="https://img.shields.io/badge/-@satell_07-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
 
 <h1 align="center">🎁 Me 🎁</h1>
