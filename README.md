@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://simpleicons.org/icons/c.svg-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://simpleicons.org/icons/cplusplus.svg-00599C?style=flat-square&logo=C++&logoColor=white"/>
-  <img src="-?style=flat-square&logo=Git&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
