@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C-263235?style=flat&logo=C&logoColor=color" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C#-263235?style=flat&logo=Csharp&logoColor=color" />
+  <img src="https://img.shields.io/badge/C##-263235?style=flat&logo=Csharp&logoColor=color" />
   <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
