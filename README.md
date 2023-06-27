@@ -34,5 +34,4 @@
 
 <h1 align="center">📢 Notice 📢</h1>
 <p align="center">
-  기말만 끝내고 제데로 올리겠습니다
 </p>
