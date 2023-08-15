@@ -33,5 +33,6 @@
 </div>
 
 <h1 align="center">📢 Notice 📢</h1>
+공부 싫어요.. 하지만 해야겠죠
 <p align="center">
 </p>
