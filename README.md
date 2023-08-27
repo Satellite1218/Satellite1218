@@ -33,5 +33,3 @@
 <br><br>
   
 </div>
-
-<h1 align="center">📢 Notice 📢</h1>
