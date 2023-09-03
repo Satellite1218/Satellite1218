@@ -20,11 +20,11 @@
 
 <h1 align="center">:fax: Contact :fax:</h1>
 <p align="center">
+  <a href="https://www.instagram.com/satell_07/"><img src="https://img.shields.io/badge/-Instargram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <br>
+  <a href="https://blog.naver.com/satellite_07"><img src="https://img.shields.io/badge/-Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+  <br>
   <a href="mailto:lsw071218@gmail.com"><img src="https://img.shields.io/badge/-lsw071218@gmail.com-263235?style=flat&logo=Gmail&logoColor=color"/></a>
-  <br>
-  <a href="https://blog.naver.com/satellite_07"><img src="https://img.shields.io/badge/-satellite_07-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
-  <br>
-  <a href="https://www.instagram.com/satell_07/"><img src="https://img.shields.io/badge/-@satell_07-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <br><br>
 </p>
 
