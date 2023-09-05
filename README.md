@@ -32,6 +32,6 @@
 <div align="center"> 
 
 ![Satellite1218's github stats](https://github-readme-stats.vercel.app/api?username=Satellite1218&show_icons=true)
-<br><br>
+<br>
   
 </div>
