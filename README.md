@@ -27,9 +27,4 @@
   <a href="mailto:lsw071218@gmail.com"><img src="https://img.shields.io/badge/-lsw071218@gmail.com-263235?style=flat&logo=Gmail&logoColor=color"/></a>
   <br><br> 
 </p>
-
-<p align="center">
-![Satellite1218's github stats](https://github-readme-stats.vercel.app/api?username=Satellite1218&show_icons=true)
-<br>
-</p>
 </div>
