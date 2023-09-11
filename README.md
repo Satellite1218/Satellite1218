@@ -18,7 +18,7 @@
   <br><br>
 </p>
 
-<h1 align="center">🎁 Me 🎁</h1>
+<h1 align="center">🛰 Me 🛰</h1>
 <p align="center">
   <a href="https://blog.naver.com/satellite_07"><img src="https://img.shields.io/badge/-Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
   <br>
