@@ -25,6 +25,6 @@
   <a href="https://www.instagram.com/satell_07/"><img src="https://img.shields.io/badge/-Instargram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <br>
   <a href="mailto:lsw071218@gmail.com"><img src="https://img.shields.io/badge/-lsw071218@gmail.com-263235?style=flat&logo=Gmail&logoColor=color"/></a>
-  <br>
+  <br><br>
 </p>
 </div>
