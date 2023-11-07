@@ -1,31 +1,36 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=270&section=header&text=ShinWoo%20&fontSize=60&fontAlignY=42&fontColor=ffff)
+<h1>이신우 (LeeShinWoo)</h2>
 
-<h1 align="center">💻 Tech Stack 💻</h1>
+~~~
+고등학생 개발자이자 3D디자이너인 이신우 입니다.
+메인 언어는 C#이고 메인 디자인 프로그램은 3ds Max 입니다.
+~~~
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-263235?style=flat&logo=C&logoColor=color " />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white "/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white "/>
-  <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white " />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white "/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white "/>
-  <img src="https://img.shields.io/badge/Unity-222324?style=flat-square&logo=unity&logoColor=white "/>
-  <br>
-  <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white "/>
-  <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white "/>
-  <img src="https://img.shields.io/badge/Blender-EA7600?style=flat-square&logo=Blender&logoColor=white "/>
-  <br><br>
-</p>
-
-<h1 align="center">📡 Me 🛰</h1>
-<p align="center">
+<h2 align="left">SNS</h2>
+<p align="left">
+  <a href="https://www.instagram.com/satell_07/"><img src="https://img.shields.io/badge/-Instargram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="https://blog.naver.com/satellite_07"><img src="https://img.shields.io/badge/-Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
   <br>
-  <a href="https://www.instagram.com/satell_07/"><img src="https://img.shields.io/badge/-Instargram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <br>
-  <a href="mailto:lsw071218@gmail.com"><img src="https://img.shields.io/badge/-lsw071218@gmail.com-263235?style=flat&logo=Gmail&logoColor=color"/></a>
-  <br><br>
-
 </p>
+
+<h2 align="left">Programming Stack</h2>
+<p align="left">
+  <img src="https://img.shields.io/badge/Csharp-239120.svg?style=for-the-badge&logo=Csharp&logoColor=while">
+  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white " />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white "/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white "/>
+  <br>
+  <img src="https://img.shields.io/badge/Unity-222324?style=for-the-badge&logo=unity&logoColor=white "/>
+  <br>
+</p>
+<h2 align="left">Design Stack</h2>
+<p align="left">
+  <img src="https://img.shields.io/badge/3DsMax-00B2A5?style=for-the-badge&logo=autodesk&logoColor=white "/>
+  <img src="https://img.shields.io/badge/Blender-EA7600?style=for-the-badge&logo=Blender&logoColor=white "/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white "/>
+  <br>
+</p>
+
 </div>
