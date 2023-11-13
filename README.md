@@ -7,8 +7,8 @@
 
 <h2 align="left">SNS</h2>
 <p align="left">
-  <a href="https://www.instagram.com/satell_07/"><img src="https://img.shields.io/badge/-Instargram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="https://blog.naver.com/satellite_07"><img src="https://img.shields.io/badge/-Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+  <a href="https://www.instagram.com/satell_07/"><img src="https://img.shields.io/badge/-Instargram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://blog.naver.com/satellite_07"><img src="https://img.shields.io/badge/-Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
   <br>
 </p>
 
