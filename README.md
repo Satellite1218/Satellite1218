@@ -29,6 +29,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/3DsMax-00B2A5?style=for-the-badge&logo=autodesk&logoColor=white "/>
   <img src="https://img.shields.io/badge/Blender-EA7600?style=for-the-badge&logo=Blender&logoColor=white "/>
+  <br>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white "/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white "/>
   <br>
 </p>
