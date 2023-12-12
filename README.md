@@ -4,24 +4,17 @@
 고등학생 개발자이자 3D모델러인 이신우 입니다.
 메인 언어는 C#이고 메인 디자인 프로그램은 3Ds Max 입니다.
 ~~~
-
-<h2 align="left">SNS</h2>
 <p align="left">
   <a href="https://blog.naver.com/satellite_07"><img src="https://img.shields.io/badge/-Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
-  <a href="https://www.instagram.com/satell_07/"><img src="https://img.shields.io/badge/-Instargram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <br>
 </p>
 
 <h2 align="left">Programming Stack</h2>
 <p align="left">
   <img src="https://img.shields.io/badge/Csharp-239120.svg?style=for-the-badge&logo=Csharp&logoColor=while">
-  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white " />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white "/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white "/>
-  <br>
   <img src="https://img.shields.io/badge/Unity-222324?style=for-the-badge&logo=unity&logoColor=white "/>
   <br>
 </p>
