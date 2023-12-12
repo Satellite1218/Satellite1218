@@ -5,7 +5,7 @@
 메인 언어는 C#이고 메인 디자인 프로그램은 3Ds Max 입니다.
 ~~~
 <p align="left">
-  <a href="https://blog.naver.com/satellite_07"><img src="https://img.shields.io/badge/-Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+  <a href="https://blog.naver.com/satellite_07"><img src="https://img.shields.io/badge/-Blog-03C75A?style=flat-square&logoColor=white"/></a>
   <br>
 </p>
 
