@@ -6,7 +6,6 @@
 ~~~
 
 <p align="left">
-  <a href="https://www.instagram.com/satell_07"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   <a href="https://blog.naver.com/satellite_07"><img src="https://img.shields.io/badge/Blog-03C75A.svg?style=for-the-badge&logo=Naver&logoColor=white">
   <br>
 </p>
