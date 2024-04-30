@@ -5,8 +5,8 @@
 ~~~
 
 <p align="left">
-  <a href="https://blog.naver.com/satellite_07"><img src="https://img.shields.io/badge/Blog-03C75A.svg?style=for-the-badge&logo=Naver&logoColor=white">
   <a href="https://www.notion.so/Portfolio-2d3d31f154c14e2b89820714ea676003?pvs=4"><img src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=Notion&logoColor=white">
+  <a href="https://blog.naver.com/satellite_07"><img src="https://img.shields.io/badge/Blog-03C75A.svg?style=for-the-badge&logo=Naver&logoColor=white">
   <br><br>
 </p>
 
