@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <br><br>
   
+
 </p>
 <h2 align="left">Design Stack</h2>
 <p align="left">
