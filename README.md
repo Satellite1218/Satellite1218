@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/Csharp-239120.svg?style=for-the-badge&logo=Csharp&logoColor=white">
   <img src="https://img.shields.io/badge/Unity-222324?style=for-the-badge&logo=unity&logoColor=white "/>
   <br>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white "/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <br><br>
   
