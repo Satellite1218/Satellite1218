@@ -15,8 +15,6 @@
   
   <img src="https://img.shields.io/badge/Csharp-239120.svg?style=for-the-badge&logo=Csharp&logoColor=white">
   <img src="https://img.shields.io/badge/Unity-222324?style=for-the-badge&logo=unity&logoColor=white "/>
-  <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <br><br>
   
 
@@ -28,7 +26,6 @@
   <img src="https://img.shields.io/badge/3DsMax-00B2A5?style=for-the-badge&logoColor=white "/>
   <br>
   <img src="https://img.shields.io/badge/Blender-EA7600?style=for-the-badge&logo=Blender&logoColor=white "/>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white "/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white "/>
   <br><br>
 </p>
