@@ -26,7 +26,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autocad&logoColor=white "/>
   <img src="https://img.shields.io/badge/Fusion360-FF6B00?style=for-the-badge&logoColor=white "/>
-  <img src="https://img.shields.io/badge/Inventor-FFDD73?style=for-the-badge&logoColor=white "/>
+  <img src="https://img.shields.io/badge/Inventor-FFDD73?style=for-the-badgelogo=Inventor&logoColor=white "/>
   <br>
   <img src="https://img.shields.io/badge/3DsMax-00B2A5?style=for-the-badge&logoColor=white "/>
   <img src="https://img.shields.io/badge/Blender-EA7600?style=for-the-badge&logo=Blender&logoColor=white "/>
